@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Shafiqurrahman Ansari 👋
 
-<!--
-**realshafique/realshafique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Engineer 🤖
 
-Here are some ideas to get you started:
+I build practical AI applications using Machine Learning,
+Deep Learning, NLP, Transformers and RAG.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding my skills in FastAPI, Docker and Cloud Deployment.
+
+## 🧠 AI & Machine Learning
+
+- Machine Learning
+- Deep Learning
+- NLP
+- Transformers
+- Generative AI
+- RAG
+
+## ⚙️ Development
+
+- Python
+- FastAPI
+- Streamlit
+- Git
+- GitHub
+
+## 🚀 Currently Learning
+
+- Docker
+- Cloud Deployment
+
+## 📌 Featured Projects
+
+### 🤖 AI Resume Analyzer
+AI-powered resume analysis application using NLP and LLMs.
+
+## 🎯 Current Goal
+
+Building and deploying production-ready AI applications.
+
+## 📫 Connect with me
+https://www.linkedin.com/in/shafiqurrahman-ansari-0a7341363?utm_source=share_via&utm_content=profile&utm_medium=member_android
