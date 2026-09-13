@@ -15,6 +15,7 @@ Currently expanding my skills in FastAPI, Docker and Cloud Deployment.
 - Transformers
 - Generative AI
 - RAG
+- LLM
 
 ## ⚙️ Development
 
